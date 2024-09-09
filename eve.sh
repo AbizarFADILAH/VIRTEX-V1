@@ -9,9 +9,9 @@ pu='\033[37;1m' #purple
 ku='\033[33;1m' #kuning
 echo -n $cy "Tuliskan Password Tools ini : "
 read pw
-	if [ $pw = kuman ]
+	if [ $pw = VIRUS_ABIZAR ]
 	then
-		sh kuman.sh
+		sh virus-v1.sh
 else
 	echo $ku "Maaf" $bi"Password Salah "
 fi
