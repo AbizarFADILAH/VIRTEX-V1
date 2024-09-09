@@ -11,7 +11,7 @@ echo -n $cy "Tuliskan Password Tools ini : "
 read pw
 	if [ $pw = VIRUS_ABIZAR ]
 	then
-		sh virus-v1.sh
+		sh Abizar-v1.sh
 else
 	echo $ku "Maaf" $bi"Password Salah "
 fi
