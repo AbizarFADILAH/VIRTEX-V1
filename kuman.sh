@@ -13,10 +13,10 @@ clear
 figlet "VIRUSTEX"
 #Papan Author
 echo $pur"========================================="
-echo $ku" Author : Manca "
-echo $ku" Youtube : EpicNova "
-echo $ku" Github : https://github.com/EpicNova-Hx "
-echo $ku" Whatsapp : 088802118339 "
+echo $ku" Author : Abizar "
+echo $ku" Youtube : EpicAbizar "
+echo $ku" Github : https://github.com/AbizarFADILAH "
+echo $ku" Whatsapp : privet "
 echo $pur"========================================="
 #Papan Perkenalan
 echo $me"~{"" $ku                  ༆⃢E⃢PI⃢C⃢N⃢O⃢V⃢A" $me"                }~"
